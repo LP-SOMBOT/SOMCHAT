@@ -4,7 +4,7 @@
 // 1. DEPLOY YOUR BACKEND (the /server folder) TO RENDER.
 // 2. PASTE THE LIVE RENDER URL HERE.
 // Your app will show a "Cannot connect" error until you do this.
-const BACKEND_URL = "https://your-backend-url.onrender.com"; // <-- REPLACE WITH YOUR DEPLOYED URL
+const BACKEND_URL = "https://somchat.onrender.com"; // <-- REPLACE WITH YOUR DEPLOYED URL
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
